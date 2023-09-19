@@ -29,6 +29,15 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 
 
 
+$---------------------------------------------------------------------------------------------------------
+$----------------------------------------------------------------------------------------------------------
+$---------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 Part 2: VacationPy
 Use weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
